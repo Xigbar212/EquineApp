@@ -6,7 +6,11 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdcb7b42-cf77-431f-ab08-3873f1e2954e" name="Default" comment="Testing Commition" />
+    <list default="true" id="cdcb7b42-cf77-431f-ab08-3873f1e2954e" name="Default" comment="Testing Commition">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/starscream/firstapplication/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/starscream/firstapplication/HomePage.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -243,10 +247,10 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="98" y="42" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1596942427962" />
-    <state x="201" y="133" key="com.intellij.ide.util.TipDialog" timestamp="1596942152486">
+    <state x="201" y="133" key="com.intellij.ide.util.TipDialog" timestamp="1596943719996">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="201" y="133" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1596942152486" />
+    <state x="201" y="133" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1596943719996" />
     <state x="215" y="100" key="git4idea.merge.GitPullDialog" timestamp="1596941393046">
       <screen x="0" y="0" width="1280" height="720" />
     </state>

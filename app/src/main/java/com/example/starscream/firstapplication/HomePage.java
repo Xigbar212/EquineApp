@@ -24,7 +24,8 @@ public class HomePage extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_homepage);
 
-        // Temp info for news articles in app ttt
+        // Test comment for commit
+        // Temp info for news articles in app
         ArrayList<ArticleItem> articleList = new ArrayList<>();
         articleList.add(new ArticleItem(R.drawable.ic_settings,"New Training Technique", "How to improve seat"));
         articleList.add(new ArticleItem(R.drawable.ic_settings,"Top Score at Tournament", "Jones scores 88% in Grand Prix"));
