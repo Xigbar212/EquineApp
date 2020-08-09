@@ -46,10 +46,12 @@ public class LoginActivity extends AppCompatActivity {
     public void goToHomePage() {
         String username = userName.getText().toString();
         String password = userPassword.getText().toString();
+        String type = "login";
+        backgroundLogin backgroundlogin = new backgroundLogin(this);
+        backgroundlogin.execute(type, username, password );
 
-
-        Intent i = new Intent(this, HomePage.class);
-        startActivity(i);
+       // Intent i = new Intent(this, HomePage.class);
+        //startActivity(i);
     }
 
 
