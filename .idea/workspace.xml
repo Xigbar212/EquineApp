@@ -7,9 +7,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdcb7b42-cf77-431f-ab08-3873f1e2954e" name="Default" comment="Testing Commition">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/starscream/firstapplication/backgroundLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/starscream/firstapplication/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/starscream/firstapplication/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/starscream/firstapplication/LoginActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/starscream/firstapplication/LoginActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +69,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="ce10171a4dc95a31057e" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-08-09T03:34:34.939Z" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -201,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596941153452</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Testing Commition">
+      <created>1596943758653</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1596943758653</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView">
@@ -219,10 +235,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="Testing Commition" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="100" y="0" key="CommitChangelistDialog2" timestamp="1596941152524">
+    <state x="96" y="16" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596944046461">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="100" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1596941152524" />
+    <state x="96" y="16" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720@0.0.1280.720" timestamp="1596944046461" />
+    <state x="446" y="69" key="#com.intellij.ide.util.MemberChooser" timestamp="1597013428813">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="446" y="69" key="#com.intellij.ide.util.MemberChooser/0.0.1280.720@0.0.1280.720" timestamp="1597013428813" />
+    <state x="100" y="0" key="CommitChangelistDialog2" timestamp="1596943757794">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="100" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1596943757794" />
     <state x="280" y="112" key="FileChooserDialogImpl" timestamp="1596942453275">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
@@ -235,6 +259,22 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="216" y="15" key="Github.UntrackedFilesDialog/0.0.1280.720@0.0.1280.720" timestamp="1596933015193" />
+    <state width="1236" height="176" key="GridCell.Tab.0.bottom" timestamp="1596944145616">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1236" height="176" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1596944145616" />
+    <state width="1236" height="176" key="GridCell.Tab.0.center" timestamp="1596944145616">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1236" height="176" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1596944145616" />
+    <state width="1236" height="176" key="GridCell.Tab.0.left" timestamp="1596944145616">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1236" height="176" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1596944145616" />
+    <state width="1236" height="176" key="GridCell.Tab.0.right" timestamp="1596944145616">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1236" height="176" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1596944145616" />
     <state x="0" y="0" key="SettingsEditor" timestamp="1596941937102">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
@@ -243,14 +283,14 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="249" y="14" key="VCS.ChangeListViewerDialog/0.0.1280.720@0.0.1280.720" timestamp="1596942374476" />
-    <state x="98" y="42" key="Vcs.Push.Dialog.v2" timestamp="1596942427962">
+    <state x="98" y="42" key="Vcs.Push.Dialog.v2" timestamp="1596943767554">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="98" y="42" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1596942427962" />
-    <state x="201" y="133" key="com.intellij.ide.util.TipDialog" timestamp="1596943719996">
+    <state x="98" y="42" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1596943767554" />
+    <state x="201" y="133" key="com.intellij.ide.util.TipDialog" timestamp="1597012827693">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="201" y="133" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1596943719996" />
+    <state x="201" y="133" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1597012827693" />
     <state x="215" y="100" key="git4idea.merge.GitPullDialog" timestamp="1596941393046">
       <screen x="0" y="0" width="1280" height="720" />
     </state>

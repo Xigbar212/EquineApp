@@ -9,17 +9,23 @@ import android.support.v7.widget.Toolbar;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
+import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
 public class LoginActivity extends AppCompatActivity {
+    EditText userName, userPassword;
     private Button loginButton;
     public TextView newAccountPrompt;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.login_layout);
+
+        userName = findViewById(R.id.username_box);
+        userPassword = findViewById(R.id.password_box);
         loginButton = findViewById(R.id.login_button);
+
         loginButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -38,9 +44,15 @@ public class LoginActivity extends AppCompatActivity {
 
             }
     public void goToHomePage() {
+        String username = userName.getText().toString();
+        String password = userPassword.getText().toString();
+
+
         Intent i = new Intent(this, HomePage.class);
         startActivity(i);
     }
+
+
     public void createAccount() {
         Toast.makeText(getApplicationContext(),"Guide User to Create Account",Toast.LENGTH_SHORT).show();
     }
